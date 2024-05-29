@@ -3,6 +3,6 @@
     { "id": "1", "title": "HTML CSS 강의" },
     { "id": "2", "title": "JS TS 강의" },
     { "id": "3", "title": "React 강의" },
-    { "id": "1", "title": "Node.js 강의" }
+    { "id": "4", "title": "Node.js 강의" }
   ]
 }
